@@ -1,1 +1,1 @@
-# Sign-Language-Detection
+# End to End Sign-Language-Detection
